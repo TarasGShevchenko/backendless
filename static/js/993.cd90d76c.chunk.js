@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbackendless=self.webpackChunkbackendless||[]).push([[993],{5993:function(e,n,s){s.r(n);s(2791);var r=s(184);n.default=function(){return console.log("render DummyChart"),(0,r.jsx)("div",{children:(0,r.jsx)("h2",{children:"Dummy Chart"})})}}}]);
+//# sourceMappingURL=993.cd90d76c.chunk.js.map
